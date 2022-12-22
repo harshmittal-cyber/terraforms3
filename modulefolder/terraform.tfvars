@@ -24,7 +24,7 @@ ec2tag={
         m_ec2instance = "t2.micro"
         m_tags={
             name="harshmittal"
-            owner="harshmittal.cloudeqcom"
+            owner="harsh.mittal@cloudeq.com"
             purpose="training"
         }
     }
@@ -33,7 +33,7 @@ ec2tag={
         m_ec2instance = "t3.micro"
         m_tags={
             name="harshmittal"
-            owner="harshmittal.cloudeqcom"
+            owner="harsh.mittal@cloudeq.com"
             purpose="training"
         }
     }
